@@ -19,6 +19,7 @@ export type Font = {
 export type UnderlineColor = {
   inactive?: string;
   focused?: string;
+  error?: string;
 };
 
 export type Fonts = {
